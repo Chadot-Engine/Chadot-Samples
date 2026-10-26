@@ -1,0 +1,21 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dnuxrlfcba2it"]
+
+[ext_resource type="Texture2D" uid="uid://qpo61k2ujutc" path="res://Materials/911-Textures/911_22_paint_BaseColor.png" id="1_mvf12"]
+[ext_resource type="Texture2D" uid="uid://4dgowt2tbck0" path="res://Materials/911-Textures/911_22_paint_Normal.png" id="1_yks85"]
+[ext_resource type="Texture2D" uid="uid://4ntappg7kqtf" path="res://Materials/911-Textures/911_22_paint_Roughness.png" id="3_ut4ws"]
+
+[resource]
+resource_name = "coat"
+cull_mode = 2
+albedo_color = Color(0.915625, 0.915625, 0.915625, 1)
+albedo_texture = ExtResource("1_mvf12")
+metallic = 0.06
+roughness = 0.21
+roughness_texture = ExtResource("3_ut4ws")
+normal_enabled = true
+normal_scale = -1.0
+normal_texture = ExtResource("1_yks85")
+rim_enabled = true
+clearcoat_enabled = true
+clearcoat = 0.32
+clearcoat_roughness = 0.46

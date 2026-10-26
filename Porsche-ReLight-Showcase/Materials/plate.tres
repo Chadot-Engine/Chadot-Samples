@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://djwj246n0q7y4"]
+
+[ext_resource type="Texture2D" uid="uid://ctr2j3nnvyskh" path="res://Materials/911-Textures/930_plate.png" id="1_msvgm"]
+[ext_resource type="Texture2D" uid="uid://besmrkqh221k4" path="res://Materials/911-Textures/930_plate_nrm.png" id="2_hmkns"]
+
+[resource]
+resource_name = "plate"
+albedo_color = Color(0.9063318, 0.9063318, 0.9063318, 1)
+albedo_texture = ExtResource("1_msvgm")
+roughness = 0.37
+normal_enabled = true
+normal_scale = -6.0
+normal_texture = ExtResource("2_hmkns")

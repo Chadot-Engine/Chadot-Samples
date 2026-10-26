@@ -1,0 +1,30 @@
+[remap]
+
+importer="2d_array_texture"
+type="CompressedTexture2DArray"
+uid="uid://dbxpxt1j4cdca"
+path="res://.godot/imported/Showroom.exr-488b3b4ec1f4bba6fa6341c9a2fab75f.ctexarray"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://Resources/Showroom.exr"
+dest_files=["res://.godot/imported/Showroom.exr-488b3b4ec1f4bba6fa6341c9a2fab75f.ctexarray"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=true
+compress/high_quality_mode=1
+compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
+compress/hdr_compression=1
+compress/channel_pack=1
+mipmaps/generate=false
+mipmaps/limit=-1
+slices/horizontal=1
+slices/vertical=1

@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dm54066obi6ss"]
+
+[ext_resource type="Texture2D" uid="uid://d2nh73jaewxc7" path="res://Materials/911-Textures/930_plastics_AO.png" id="1_ttowh"]
+
+[resource]
+resource_name = "930_plastics"
+cull_mode = 2
+albedo_color = Color(0.10235265, 0.10235265, 0.10235265, 1)
+roughness = 0.3
+ao_enabled = true
+ao_light_affect = 0.61
+ao_texture = ExtResource("1_ttowh")

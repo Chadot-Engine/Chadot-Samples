@@ -1,0 +1,18 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://n5sfdgtpmnfp"]
+
+[ext_resource type="Texture2D" uid="uid://chxgnu261ju4m" path="res://Materials/911-Textures/930_lights.png" id="1_o8sp0"]
+[ext_resource type="Texture2D" uid="uid://dxl2rqvq0wret" path="res://Materials/911-Textures/930_lights_nrm.png" id="2_sdxl5"]
+
+[resource]
+resource_name = "930_lights"
+transparency = 1
+albedo_color = Color(1, 1, 1, 0.7294118)
+albedo_texture = ExtResource("1_o8sp0")
+metallic = 0.5
+metallic_specular = 0.74
+roughness = 0.0
+emission_texture = ExtResource("1_o8sp0")
+normal_enabled = true
+normal_scale = -5.0
+normal_texture = ExtResource("2_sdxl5")
+refraction_texture = ExtResource("1_o8sp0")

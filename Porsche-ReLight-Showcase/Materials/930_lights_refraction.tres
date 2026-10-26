@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bg31os5f4bq77"]
+
+[resource]
+resource_name = "930_lights_refraction"
+transparency = 1
+albedo_color = Color(0.90588236, 0.90588236, 0.90588236, 0.26666668)
+metallic = 0.53
+metallic_specular = 0.34
+roughness = 0.5356144

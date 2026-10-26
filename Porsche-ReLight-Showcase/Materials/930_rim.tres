@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cekn82rx1v3yj"]
+
+[ext_resource type="Texture2D" uid="uid://c8ubtmq4s3psf" path="res://Materials/911-Textures/911_22_930_rim_Metallic.png" id="1_3pa4n"]
+[ext_resource type="Texture2D" uid="uid://dyuo3lif8tp04" path="res://Materials/911-Textures/911_22_930_rim_Normal.png" id="1_x65s5"]
+[ext_resource type="Texture2D" uid="uid://dpsfblvl7qxig" path="res://Materials/911-Textures/911_22_930_rim_Roughness.png" id="2_3pa4n"]
+
+[resource]
+resource_name = "930_rim"
+albedo_color = Color(0.0850552, 0.3400653, 0.5117918, 1)
+metallic = 0.8
+metallic_specular = 1.0
+metallic_texture = ExtResource("1_3pa4n")
+roughness = 0.08
+roughness_texture = ExtResource("2_3pa4n")
+normal_enabled = true
+normal_scale = -2.0
+normal_texture = ExtResource("1_x65s5")
+bent_normal_enabled = true
+rim_enabled = true

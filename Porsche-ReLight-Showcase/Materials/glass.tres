@@ -1,0 +1,17 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cf0f1o8qfs720"]
+
+[ext_resource type="Texture2D" uid="uid://bfy4yqtg3eolf" path="res://Materials/911-Textures/911_22_glass_BaseColor.png" id="1_l5f1g"]
+[ext_resource type="Texture2D" uid="uid://bo2flea4dlbuc" path="res://Materials/911-Textures/911_22_glass_Roughness.png" id="2_chfhp"]
+
+[resource]
+resource_name = "glass"
+transparency = 1
+cull_mode = 2
+albedo_color = Color(0.7857142, 1, 1, 0.52156866)
+albedo_texture = ExtResource("1_l5f1g")
+metallic = 0.3
+metallic_specular = 0.9
+roughness_texture = ExtResource("2_chfhp")
+normal_enabled = true
+refraction_enabled = true
+refraction_scale = 0.01

@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://d0j2wevf48wfv"]
+
+[ext_resource type="Texture2D" uid="uid://be1qdtbac6d0l" path="res://Materials/911-Textures/930_stickers.png" id="1_61r3g"]
+
+[resource]
+resource_name = "930_stickers"
+transparency = 2
+alpha_scissor_threshold = 0.5
+alpha_antialiasing_mode = 0
+albedo_texture = ExtResource("1_61r3g")
+metallic = 0.32
+roughness = 0.0
