@@ -10,4 +10,7 @@ These samples are designed to help you explore and understand the wide range of 
 
 This scene demonstrates the use of Chadot's ReLight Lightmapper, Custom Reflection Probes and Global Material Overrider.
 
-<img width="2560" height="1385" alt="Chadot-Porsche-Sample" src="https://github.com/user-attachments/assets/6c4c06fe-acc2-4732-bbb8-483b28ce6bfb" />
+[Porsche ReLight Lightmap Showcase](https://github.com/user-attachments/assets/947e1235-3e7d-4bea-8ccd-1f802995de6c)
+
+> This Sample Requires Chadot 4.8 R4 and above.
+
